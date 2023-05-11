@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**green-veggies/green-veggies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Aditya Jasrotia**
 
-Here are some ideas to get you started:
+- 💡 Currently 1st year student at IIIT Bhubaneswar in Electrical and Electronics Engineering ⚡
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Github Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=green-veggies&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=swoyam2609&theme=midnight-purple&hide_border=true)
