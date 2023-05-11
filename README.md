@@ -14,7 +14,4 @@ This is **Aditya Jasrotia**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Github Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=green-veggies&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=swoyam2609&theme=midnight-purple&hide_border=true)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=green-veggies)](https://github.com/anuraghazra/github-readme-stats)
