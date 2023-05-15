@@ -20,6 +20,15 @@ This is **Aditya Jasrotia**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=green-veggies&label=Profile%20views&color=0e75b6&style=flat" alt="green-veggies" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=green-veggies" alt="green-veggies" /></a> </p>
+<table align="center">
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=roshan1337d&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=roshan1337d&show_icons=true&theme=dark&locale=en"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan1337d&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
