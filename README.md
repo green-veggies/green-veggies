@@ -22,11 +22,7 @@ This is **Aditya Jasrotia**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=green-veggies" alt="green-veggies" /></a> </p>
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=roshan1337d&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=roshan1337d&show_icons=true&theme=dark&locale=en"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan1337d&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=green-veggies&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
   </tr>
 </table>
 
