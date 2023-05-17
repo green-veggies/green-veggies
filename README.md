@@ -19,6 +19,8 @@ This is **Aditya Jasrotia**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=green-veggies&label=Profile%20views&color=0e75b6&style=flat" alt="green-veggies" /> </p>
 
+[![Aditya's GitHub | Stats](https://stats.quine.sh/green-veggies/github?theme=dark)](https://quine.sh)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=green-veggies" alt="green-veggies" /></a> </p>
 <table align="center">
   <tr>
