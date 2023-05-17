@@ -14,17 +14,21 @@ This is **Aditya Jasrotia**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate Frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=green-veggies&label=Profile%20views&color=0e75b6&style=flat" alt="green-veggies" /> </p>
+<h1 align="center">Hi 👋, I'm Aditya Jasrotia</h1>
+<h3 align="center">A passionate Frontend Developer 💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=green-veggies" alt="green-veggies" /></a> </p>
-<table align="center">
-  <tr>
+- 🌱 I’m currently learning **Javascript**
+
+- 👨‍💻 All of my projects are available at [https://github.com/green-veggies/Projects_webdev](https://github.com/green-veggies/Projects_webdev)
+
+- 📫 How to reach me **b322070@iiit-bh.ac.in**
+
+- ⚡ Fun fact **My username is green-veggies but I hate them**
+
+ <tr>
     <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=green-veggies&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
-  </tr>
-</table>
+ </tr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
