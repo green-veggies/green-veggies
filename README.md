@@ -20,8 +20,8 @@ This is **Aditya Jasrotia**
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/green-veggies/Projects_webdev](https://github.com/green-veggies/Projects_webdev)
-
+- 👨‍💻 All of my projects are available <a href='https://github.com/green-veggies/Projects_webdev'>here</a>
+<!-- [https://github.com/green-veggies/Projects_webdev](https://github.com/green-veggies/Projects_webdev)  -->
 - 📫 How to reach me **b322070@iiit-bh.ac.in**
 
 - ⚡ Fun fact **My username is green-veggies but I hate them**
