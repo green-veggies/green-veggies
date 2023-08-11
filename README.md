@@ -44,3 +44,5 @@ This is **Aditya Jasrotia**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=green-veggies&" alt="green-veggies" /></p>
 
+[![green-veggies's GitHub | Stats](https://stats.quine.sh/green-veggies/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=green-veggies)
+
