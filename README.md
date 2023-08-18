@@ -18,7 +18,7 @@ This is **Aditya Jasrotia**
 <h1 align="center">Hi 👋, I'm Aditya Jasrotia</h1>
 <h3 align="center">A passionate Frontend Developer 💻</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **JS and Backend**
 
 - 👨‍💻 All of my projects are available <a href='https://github.com/green-veggies/Projects_webdev'>here</a>
 <!-- [https://github.com/green-veggies/Projects_webdev](https://github.com/green-veggies/Projects_webdev)  -->
