@@ -38,10 +38,14 @@ This is **Aditya Jasrotia**
 <hr>
 
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Tech Stack:
+
+<div align=center>
+  
 [![My Skills](https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,figma,git,github,html,js,jquery,materialui,mysql,netlify,react,tailwind,vercel,vscode,webpack)](https://skillicons.dev)
 
+<div align=center>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=green-veggies&" alt="green-veggies" /></p>
-[![green-veggies's GitHub | Stats](https://stats.quine.sh/green-veggies/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=green-veggies)
+  ![Adityaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=green-veggies&theme=vue-dark&hide_border=false)
+</div>
 
