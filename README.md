@@ -25,7 +25,18 @@ This is **Aditya Jasrotia**
 - 📫 How to reach me **b322070@iiit-bh.ac.in**
 
 - ⚡ Fun fact **My username is green-veggies but I hate them**
-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="138d9872-c5d5-42f9-81c0-c82443c61f12" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+- <h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+
+
+<!--START_SECTION:badges-->
+[![Google CyberSecurity Certificate](https://images.credly.com/size/100x100/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)]
+[![An image of @greenveggies's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/greenveggies)](https://holopin.io/@greenveggies)
+
+<!--END_SECTION:badges-->
+
+
+
+
 
   <br>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
@@ -51,4 +62,5 @@ This is **Aditya Jasrotia**
 
   ![Adityaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=green-veggies&theme=vue-dark&hide_border=false)
 </div>
+
 
