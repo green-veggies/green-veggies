@@ -25,6 +25,7 @@ This is **Aditya Jasrotia**
 - 📫 How to reach me **b322070@iiit-bh.ac.in**
 
 - ⚡ Fun fact **My username is green-veggies but I hate them**
+- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="138d9872-c5d5-42f9-81c0-c82443c61f12" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
   <br>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
