@@ -1,20 +1,3 @@
-<!--### Hi there 👋
-
-This is **Aditya Jasrotia**
-
-- 💡 Currently 1st year student at IIIT Bhubaneswar in Electrical and Electronics Engineering ⚡
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Aditya Jasrotia</h1>
 <h3 align="center">A passionate Frontend Developer 💻</h3>
 
@@ -25,23 +8,23 @@ This is **Aditya Jasrotia**
 - 📫 How to reach me **b322070@iiit-bh.ac.in**
 
 - ⚡ Fun fact **My username is green-veggies but I hate them**
-- <h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
+<!--<h2> My badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 
-<!--START_SECTION:badges-->
+
 [![Google CyberSecurity Certificate](https://images.credly.com/size/100x100/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)]
 [![An image of @greenveggies's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/greenveggies)](https://holopin.io/@greenveggies)
 
-<!--END_SECTION:badges-->
 
 
 
 
 
-  <br>
+
+  <br> -->
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 </br>
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
@@ -58,7 +41,7 @@ This is **Aditya Jasrotia**
   
 [![My Skills](https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,figma,git,github,html,js,jquery,materialui,mysql,netlify,react,tailwind,vercel,vscode,webpack)](https://skillicons.dev)
 
-<div align=center>
+<div align=center> -->
 
   ![Adityaa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=green-veggies&theme=vue-dark&hide_border=false)
 </div>
