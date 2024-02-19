@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Jasrotia</h1>
-<h3 align="center">A passionate Frontend Developer 💻</h3>
+<h3 align="center">A passionate Web Developer 💻</h3>
 
 - 🌱 I’m currently learning **JS and Backend**
 
@@ -39,7 +39,7 @@
 
 <div align=center>
   
-[![My Skills](https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,figma,git,github,html,js,jquery,materialui,mysql,netlify,react,tailwind,vercel,vscode,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,c,cpp,css,figma,git,github,html,js,jquery,mysql,netlify,react,tailwind)](https://skillicons.dev)
 
 <div align=center> -->
 
