@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Jasrotia</h1>
 <h3 align="center">A passionate Web Developer 💻</h3>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **FastAPI**
 
 <!-- - 👨‍💻 All of my projects are available <a href='https://github.com/green-veggies/Projects_webdev'>here</a> -->
 <!-- [https://github.com/green-veggies/Projects_webdev](https://github.com/green-veggies/Projects_webdev)  -->
